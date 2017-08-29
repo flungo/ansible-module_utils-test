@@ -1,0 +1,5 @@
+# Ignore generated code
+*.pyc
+
+# Ignore Ansible retry files
+*.retry

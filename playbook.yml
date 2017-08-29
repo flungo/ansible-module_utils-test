@@ -1,0 +1,6 @@
+- hosts: localhost
+  tasks:
+    - name: Get the time using the module
+      datetime_module:
+    - name: Get the time using the plugin
+      datetime_plugin:
